@@ -3,6 +3,7 @@ Inventory Managment System for Retailers
 
 
 TEAM MEMBERS:
+
 Vasanthakumar M
 
 Santhosh R
